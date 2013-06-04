@@ -22,9 +22,9 @@
     </properties>
     
     <scm>
-        <developerConnection>scm:git:git@github.com:UW-MultiEnvironment-Build/dev-uportal.git</developerConnection>
-        <connection>scm:git:git://github.com/UW-MultiEnvironment-Build/dev-uportal.git</connection>
-        <url>https://github.com/UW-MultiEnvironment-Build/dev-uportal</url>
+        <developerConnection>scm:git:git@github.com:UW-MultiEnvironment-Build/dev-BookmarksPortlet.git</developerConnection>
+        <connection>scm:git:git://github.com/UW-MultiEnvironment-Build/dev-BookmarksPortlet.git</connection>
+        <url>https://github.com/UW-MultiEnvironment-Build/dev-BookmarksPortlet</url>
     </scm>
 
     <!-- TODO point to the local maven repository so the parent pom can be resolved
